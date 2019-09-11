@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "spatie/laravel-permission": "v2.x-dev"
+        "spatie/laravel-permission": "^2.37"
     },
     "autoload": {
         "psr-4": {
